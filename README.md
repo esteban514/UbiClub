@@ -1,5 +1,5 @@
 # UbiClub
 REST API Demo
 
-Presneted by FERNANDEZ, Esteban
+Presented by FERNANDEZ, Esteban
 February 2018
